@@ -1,2 +1,2 @@
 # qala-dajal
-fb numbe checker
+fb number checker
